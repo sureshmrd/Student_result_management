@@ -22,6 +22,8 @@
 
 ![Screenshot (355)](https://github.com/sureshmrd/Student_result_management/assets/123853377/5528d6e9-6371-4dfa-955a-ccabbed03ebe)
 
+<img width="505" alt="image" src="https://github.com/sureshmrd/Student_result_management/assets/123853377/5d3d4f42-d2c7-4b38-88d4-47f051e65a1b">
+
 ### Technologies Used
 - **Frontend** : HTML,CSS,Javascript
 - **Backend**  : Php
