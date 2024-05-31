@@ -20,7 +20,7 @@
 - Here are some pictures of implementation
 <img width="512" alt="image" src="https://github.com/sureshmrd/Student_result_management/assets/123853377/7551733d-6193-47ea-a1a3-e3e1f9aad88b">
 
-![Screenshot (355)](https://github.com/sureshmrd/Student_result_management/assets/123853377/f26b1c82-1f4f-49cb-905b-f2aefdd552cc)
+![Screenshot (355)](https://github.com/sureshmrd/Student_result_management/assets/123853377/5528d6e9-6371-4dfa-955a-ccabbed03ebe)
 
 ### Technologies Used
 - **Frontend** : HTML,CSS,Javascript
