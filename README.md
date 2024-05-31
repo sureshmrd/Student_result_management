@@ -17,6 +17,12 @@
 - The student can enter his/her register id and can view their profile containing details of all the semesters results , cgpa , sgpa of every semesters , supply results and etc all at one place.
 - And next , counsellor can login with his/her credentials (id and password) and list of their counselling students will appear and they can visit profile of any student of thier counselling.
 
+- Here are some pictures of implementation
+<img width="512" alt="image" src="https://github.com/sureshmrd/Student_result_management/assets/123853377/7551733d-6193-47ea-a1a3-e3e1f9aad88b">
+![image](https://github.com/sureshmrd/Student_result_management/assets/123853377/37511ea5-53cd-415f-b751-45c9554d0685)
+
+
+
 ### Technologies Used
 - **Frontend** : HTML,CSS,Javascript
 - **Backend**  : Php
