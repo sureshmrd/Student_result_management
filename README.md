@@ -22,3 +22,4 @@
 - **Backend**  : Php
 - **Database** : MySQL (accessed using phpMyAdmin locally)
 - **Server**   : Xampp Server ( Local server - Apache server)
+- **Others**   : Python libraries for pdf extraction, loading csv etc..
